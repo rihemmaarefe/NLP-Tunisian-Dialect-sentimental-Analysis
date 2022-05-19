@@ -1,1 +1,4 @@
 # NLP-Tunisian-Dialect-sentimental-Analysis
+
+
+Automatic sentiment analysis is one of the most rapidly increasing study topics in Natural Language Processing (NLP). Since this is the first contribution to the field of Tunisian students' opinions on sentiment analysis at both the aspect and sentence levels for Tunisian Dialect. As a result, in this paper, we empirically analyse three deep learning methods: convolution neural networks (CNN), long short-term memory (LSTM), and bi-directional long-short-term-memory (Bi-LSTM). To that goal, we compiled a corpus of comments from Tunisian students' official Facebook profiles. This corpus was tagged for our experiments using two factors (positive/negative) and twenty different categories of aspects. In this study, we show that the obtained features can lead to extremely promising results when used with CNN and Bi-LSTM neural network models.
